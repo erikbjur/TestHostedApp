@@ -9,7 +9,7 @@
   <Identity
     Name="3808506e-cbc7-4874-9de7-5b7fca996454"
     Publisher="CN=ErikBjur"
-    Version="1.0.0.0" />
+    Version="1.0.2.0" />
 
   <Properties>
     <DisplayName>PackagingApp</DisplayName>
